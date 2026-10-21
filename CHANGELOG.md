@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- fix: resize detokenization buffer for long token pieces by @grinder81
+- fix: resize detokenization buffer for long token pieces by @grinder81 in #2388
 
 ## [0.3.36]
 
